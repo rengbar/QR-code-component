@@ -15,6 +15,21 @@ body {
 .qr-img {
     width: 300px;
     border-radius: 10%;
-
     display: block;
+}
+
+.upper-text {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    margin: 15px auto;
+}
+
+.bottom-text {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px auto;
 }
